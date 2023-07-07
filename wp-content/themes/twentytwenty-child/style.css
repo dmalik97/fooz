@@ -1,0 +1,13 @@
+/*
+Theme Name:   Twenty Twenty Child
+Description:  Twenty Twenty Child Theme
+Author:       Fooz Agency
+Author URI:   https://foozagency.com/
+Template:     twentytwenty
+Version:      1.0.0
+Text Domain:  twentytwentychild
+*/
+
+h2{
+    background: tomato;
+}
